@@ -5,7 +5,7 @@ import time
 from urllib.parse import quote
 
 
-NVD_API_KEY = "1ad11ebc-b427-4013-b2c9-680753129a37"
+NVD_API_KEY = "DEMO_KEY"
 HEADERS = {"apiKey": NVD_API_KEY}
 
 
