@@ -5,8 +5,7 @@ import time
 from urllib.parse import quote
 
 
-NVD_API_KEY = "DEMO_KEY"
-HEADERS = {"apiKey": NVD_API_KEY}
+HEADERS = {}
 
 
 TABLE_WIDTH = 100
