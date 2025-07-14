@@ -20,7 +20,7 @@ A lightweight Python CLI that helps security researchers quickly map a **CPE** (
 
 ```bash
 # Clone the repository
-$ git clone https://github.com/your-user/cpe-to-cve.git
+$ git clone https://github.com/Shaiturjeman/cpe-to-cve.git
 $ cd cpe-to-cve
 
 # (Optional) create an isolated environment
